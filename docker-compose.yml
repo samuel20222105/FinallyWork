@@ -1,6 +1,6 @@
 version: '3.3'
 services:  
   frontend:
-    image: samuel20222105/the-finals:latest
+    image: samuel20222105/finallywork:latest
     ports:
       - "8086:80"
